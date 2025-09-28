@@ -1,0 +1,1 @@
+var gamefiles = ['Pupilvoice.ags', 'acsetup.cfg'];
